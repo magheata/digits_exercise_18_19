@@ -1,2 +1,2 @@
 # digits_exercise_18_19
-Digits dataset exploration using different training models 
+Digits dataset manipulation using different training models 
