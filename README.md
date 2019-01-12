@@ -1,5 +1,5 @@
 # digits_exercise_18_19
-Digits dataset exploration using 4 training models:
+Digits dataset exploration using 4 models:
 1) Linear Regression
 2) Perceptron
 3) Random Forest
